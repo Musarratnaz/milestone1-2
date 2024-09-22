@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: systum-ui;
+    box-sizing: border-box;
+}
+.container{
+    background-color:rgba(128, 0, 128, 0.463);
+    width:50%;
+    height:38vh ;
+    margin-top: 2rem;
+    display: inline-block;
+    margin-left:17rem;
+   
+}
+.profilepic{
+    width:180px;
+    border-radius:60% ;
+    display:inline-block;
+    margin-left:15rem ;
+
+}
+.top{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 2px;
+    color: white;
+
+}
+.mid-sec{
+    background-color:rgba(123, 2, 123, 0.203);
+    display: inline-block;
+    margin-left:17rem;
+    width:50%;
+    height:100vh ; 
+}
+h3{
+    font-size:1.5rem;
+    text-align: left ;
+    margin-top:1rem;
+    border:1px solid white;
+    border-radius:0.5rem;
+    margin-left:1rem;
+
+}
+h3:hover{
+    color: purple;
+}
+ul{
+    list-style:circle ;
+    margin-left:2.75rem;
+}
+li{
+    margin-top:1rem;
+}
+p{
+    font-size:1.15rem;
+    margin-left: 1rem;
+}
+#btn{
+    font-size:1.25rem ;
+    border-radius: 1.5rem;
+    width: 10rem;
+    margin-left:1.75rem ;
+    cursor: pointer;
+    background-color:rgba(128, 0, 128, 0.463);
+}
+#btn:hover{
+    color:rgba(128, 0, 128, 0.966) ;
+}
